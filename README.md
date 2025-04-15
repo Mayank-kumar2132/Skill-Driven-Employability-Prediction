@@ -1,4 +1,4 @@
-# Skill-Driven Employability Forecasting: A Data-Centric Approach
+# Skill-Driven-Employability-Prediction
 ### Abstract
 Employability prediction is a crucial task in today’s dynamic job market, aiding in efficient resource allocation and career planning. This project explores the application of both traditional machine learning and advanced deep learning techniques to predict the employability of individuals based on their academic qualifications, skill sets, and relevant experience.
 
